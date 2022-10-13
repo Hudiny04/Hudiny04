@@ -1,7 +1,72 @@
 **Narrator**: As the first century of the Targaryen dynasty came to a close, the health of the Old King, Jaehaerys, was failing. In those days, House Targaryen stood at the height of its strength with 10 adult dragons under its yoke. No power in the world could stand against it. King Jaehaerys reigned over nearly 60 years of peace and prosperity. But tragedy had claimed both his sons, leaving his succession in doubt. So, in the year 101, the Old King called a Great Council to choose an heir. Over a thousand lords made the journey to Harrenhal. Fourteen succession claims were heard but only two were truly considered: Princess Rhaenys Targaryen, the King's eldest descendant, and her younger cousin, Prince Viserys Targaryen, the King's eldest male descendant.
 
-Jaehaerys Targaryen: It is declared by all lords paramount and lords vassal of the Seven Kingdoms... that Prince Viserys Targaryen be made Prince of Dragonstone. Narrator: Rhaenys, a woman, would not inherit the Iron Throne. The lords instead chose Viserys... my father. Jaehaerys called the Great Council to prevent a war being fought over his succession. For he knew the cold truth. The only thing that could tear down the House of the Dragon... was itself. ( epic theme playing ) ♪ ♪ ( wind blowing ) ( dragon calls ) ( grand music playing ) ♪ ♪ ( roaring ) ♪ ♪ ( dragon roaring ) ( birds cawing ) ♪ ♪ ( roars ) ( speaking High Valyrian ) Dohaeras, Syrax! ( Syrax rumbling ) Umbas. Rybas! ( grunts ) ( Syrax purring ) Ser Harrold Westerling: Welcome back, Princess. I trust your ride was pleasant. Try not to look too relieved, ser. Westerling: I am relieved. Every time that golden beast brings you back unspoiled, it saves my head from a spike. Syrax is growing quickly. She'll soon be as large as Caraxes. That's almost large enough to saddle two. I believe I'm quite content as a spectator, thank you. Dragonkeeper Elder: ( speaking High Valyrian ) Dohaeras. ( grumbles, roars ) Naejot! ( roars ) ( horses neighing ) ♪ ♪ ( birds cawing ) ♪ ♪ ♪ ♪ ( indistinct chatter ) Ah... Rhaenyra. You know I don't like you to go flying while I'm in this condition. You don't like me to go flying while you're in any condition. Your Grace. Queen Aemma: Good morrow, Alicent. Rhaenyra: Did you sleep? I slept. How long? I don't need mothering, Rhaenyra. Well, here you are, surrounded by attendants, all focused on the babe. Someone has to attend to you. You will lie in this bed soon enough, Rhaenyra. This discomfort is how we serve the realm. I'd rather serve as a knight and ride to battle and glory. ( laughs ) We have royal wombs, you and I. The child bed is our battlefield. We must learn to face it with a stiff lip. Now take a bath. You stink of dragon. So, I said to him, "Well, I believe you might be looking up the wrong end." ( all laughing ) My lords. The growing alliance among the Free Cities has taken to styling itself "the Triarchy." They have massed on Bloodstone and are presently ridding the Stepstones of its pirate infestation.
-King Viserys: Well, that sounds suspiciously like good news, Lord Corlys.
+**Jaehaerys Targaryen**: It is declared by all lords paramount and lords vassal of the Seven Kingdoms... that Prince Viserys Targaryen be made Prince of Dragonstone.
+
+**Narrator**: Rhaenys, a woman, would not inherit the Iron Throne.
+The lords instead chose Viserys... my father. 
+Jaehaerys called the Great Council to prevent a war being fought over his succession.
+For he knew the cold truth.
+The only thing that could tear down the House of the Dragon... was itself.
+( epic theme playing )
+♪ ♪
+( wind blowing )
+( dragon calls )
+( grand music playing )
+♪ ♪ 
+( roaring )
+♪ ♪ 
+( dragon roaring )
+( birds cawing ) 
+♪ ♪ 
+(roars ) 
+( speaking High Valyrian ) Dohaeras, Syrax! 
+( Syrax rumbling ) 
+Umbas.
+Rybas!
+( grunts )
+( Syrax purring )
+**Ser Harrold Westerling**: Welcome back, Princess.I trust your ride was pleasant.
+Try not to look too relieved, ser.
+**Westerling**: I am relieved. Every time that golden beast brings you back unspoiled, it saves my head from a spike.
+Syrax is growing quickly.
+She'll soon be as large as Caraxes.
+That's almost large enough to saddle two.
+I believe I'm quite content as a spectator, thank you.
+Dragonkeeper Elder: ( speaking High Valyrian ) Dohaeras.
+( grumbles, roars ) 
+Naejot! 
+( roars )
+( horses neighing )
+♪ ♪
+( birds cawing ) 
+♪ ♪ ♪ ♪ 
+( indistinct chatter )
+Ah... Rhaenyra.
+You know I don't like you to go flying while I'm in this condition.
+You don't like me to go flying while you're in any condition.
+Your Grace.
+**Queen Aemma**: Good morrow, Alicent.
+**Rhaenyra**: Did you sleep?
+I slept.
+How long?
+I don't need mothering, Rhaenyra.
+Well, here you are, surrounded by attendants, all focused on the babe.
+Someone has to attend to you.
+You will lie in this bed soon enough, Rhaenyra.
+This discomfort is how we serve the realm.
+I'd rather serve as a knight and ride to battle and glory.
+( laughs )
+We have royal wombs, you and I.
+The child bed is our battlefield.
+We must learn to face it with a stiff lip.
+Now take a bath.
+You stink of dragon.
+So, I said to him, "Well, I believe you might be looking up the wrong end."
+( all laughing )
+My lords.
+The growing alliance among the Free Cities has taken to styling itself "the Triarchy."
+They have massed on Bloodstone and are presently ridding the Stepstones of its pirate infestation.
+**King Viserys**: Well, that sounds suspiciously like good news, Lord Corlys.
 A man called Craghas Drahar has styled himself the prince-admiral of this Triarchy. They call him "The Crabfeeder" due to his inventive methods of punishing his enemies. King Viserys: And are we meant to weep for dead pirates? Lord Corlys: No, Your Grace. Rhaenyra, you're late. The King's cupbearer must not be late. Leaves people wanting for cups. I was visiting Mother. ( sniffs ) On dragonback? Lyman Beesbury: Hey, Your Grace, at Prince Daemon's urging, the crown has invested significant capital in the re-training and re-equipping of his City Watch. I thought you might urge your brother to fill his seat on the council and provide an assessment of his progress as commander of the Watch. Do you think Daemon is distracted by his present tasks? And that his thoughts and energies are occupied? Well, one would hope so, considering the associated costs. Then let us all consider your gold well-invested, Lord Beesbury.
 If those shipping lanes should fall, it will beggar our ports. The crown has heard your report, Lord Corlys, and takes it under advisement. Shall we discuss the Heir's Tournament, Your Grace? I would be delighted. Will the maesters' name day prediction hold, Mellos? You must understand that these things are mere estimations, my King, but we have all been poring over the moon charts, and we feel that our forecast is as accurate as it can be. Lyman: The cost of the tournament is not negligible. Perhaps we might delay until the child is in hand? Ugh, most of the lords and knights are certainly on their way to King's Landing already. To turn them back now... King Viserys: The tourney will take the better part of a week. Before the games are over, my son will be born, and the whole realm will celebrate. Grand Maester Mellos: We have no way of predicting the sеx of the child. Of course, no maester's capable of rendering an opinion free of conditions, are they now? There's a boy in the Queen's belly. I know it. And my heir will soon put all of this damnable hand-wringing to rest himself. He passed through the Red Keep's gates at first light. Does my father know he's here? No. Good. ( birds chirping ) Gods be good. It's all right, ser. Aye... Mm... I bought you something. Do you know what it is? It's Valyrian steel. Like Dark Sister. Turn around. Now... you and I both own a small piece of our ancestry. ( speaks High Valyrian ) Alicent: Did you read it? Rhaenyra: Of course, I read it. Alicent: When Princess Nymeria arrived in Dorne, who did she take to husband? Rhaenyra: A man. Alicent: What was his name? Rhaenyra: Lord Something. Alicent: If you answer with "Lord Something," Septa Marlow will be furious. She's funny when she's furious. You're always like this when you're worried. Like what? Disagreeable. You're worried your father is about to overshadow you with a son. I only worry for my mother. I hope for my father that he gets a son. As long as I can recall, it's all he's wanted. You want him to have a son? I want to fly with you on dragon-back, see the great wonders across the Narrow Sea, and eat only cake. I'm being serious. I never jest about cake. You aren't worried about your position? I like this position. It's quite comfortable. Where are you going? Home. The hour has grown late. Princess Nymeria led her Rhoynar across the Narrow Sea on 10,000 ships to flee their Valyrian pursuers. She took Lord Mors Martell of Dorne to husband and burned her own fleet off Sunspear to show her people that they were finished running. What are you doing? So you remember. If-if the Septa sees this book, then... fսck the Septa. Alicent: Rhaenyra! ( both laughing ) ( bell tolling ) ( birds cawing ) Is it healing? Mellos: It has grown slightly, Your Grace. Otto Hightower: Can you say yet what it is? We've sent inquiries to the Citadel. They are searching the texts for similar cases. It's a small cut from sitting the throne. It's nothing. The King has been under heavy stresses preparing for the birth. Bad humors of the mind can adversely affect the body. Whatever it is, it needs to be kept quiet. We should leech it again, maester. It's a wound that refuses to heal, Grand Maester. Might I suggest cauterization? Cauterization would be a wise course of treatment, Your Grace. It will be painful... King Viserys: Fine. Fine. ( seabirds cawing ) ( door opens ) ( door closes ) You spend more time in that bath than I do on the throne. ( sighs ) This is the only place I can find comfort these days. It's tepid. It's as warm as the maesters will allow. Don't they know dragons prefer heat? Hm. After this miserable pregnancy... I wouldn't be surprised if I hatched an actual dragon. ( laughs ) Then he will be loved and cherished. Rhaenyra has already declared that she is to have a sister. Really? She even named her. Dare I ask? Visenya. ( chuckles ) She chose a dragon's egg for the cradle that she said reminded her of Vhagar. Gods be good. This family already has its Visenya. Has there been any word from your dear brother? Not since I named him Commander of the City Watch. I'm sure he will reemerge for the tourney. He could never stay away from the lists. The tourney... to celebrate the firstborn son that we presently do not have. You do understand nothing will cause the babe to grow a cock if it does not already possess one? This child is a boy, Aemma. ( scoffs ) I'm certain of it. I've never been more certain of anything. The dream. It was clearer than a memory. Our son was born wearing Aegon's iron crown. When I heard the sound of thundering hooves splintering shields, and ringing swords and I placed our son upon the Iron Throne as the bells of the Grand Sept tolled and all the dragons roared as one. Born wearing a crown? Gods spare me... birth is unpleasant enough as it is. This is the last time, Viserys. I've lost one babe in the cradle, had two stillbirths, and two pregnancies ended well before their term. That's five... in twice as many years. I know it is my duty to provide you an heir, and I'm sorry if I have failed you in that. I am. But I've mourned all the dead children I can. ( somber music playing ) ( muffled thumping ) ( thumping grows louder ) Captain Randyll Barret: Commander on the floor! When I took command of the Watch, you were stray mongrels... starving and undisciplined. Now... you're a pack of hounds. You're sated and honed for the hunt. ( all howling ) My brother's city has fallen into squalor. Crime of every breed has been allowed to thrive. No longer. Beginning tonight, King's Landing will learn to fear the color gold. ( war cry erupts ) ( indistinct shouting ) ( tense music playing ) ( indistinct yelling ) ( punches landing ) ( people grunting ) ( horse neighs ) ♪ ♪ City Watchman: Get up! ( grunting ) ( screaming ) ♪ ♪ ( grunts ) ( screams ) Raper! No! No! No! No! No! ( slashing ) ( screaming ) Captain Barret: Thief! No! ( screaming ) ♪ ♪ Murderer! ( yelling ) ( screams ) ( slices ) ( horse neighs ) Otto: It was an unprecedented roundup of criminals of every ilk. Your brother made a public show of it, meting out the summary judgments himself.
 
