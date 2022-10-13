@@ -7,65 +7,66 @@ The lords instead chose Viserys... my father.
 Jaehaerys called the Great Council to prevent a war being fought over his succession.
 For he knew the cold truth.
 The only thing that could tear down the House of the Dragon... was itself.
-( epic theme playing )
-♪ ♪
-( wind blowing )
-( dragon calls )
-( grand music playing )
-♪ ♪ 
-( roaring )
-♪ ♪ 
-( dragon roaring )
-( birds cawing ) 
-♪ ♪ 
-(roars ) 
-( speaking High Valyrian ) Dohaeras, Syrax! 
-( Syrax rumbling ) 
-Umbas.
-Rybas!
-( grunts )
-( Syrax purring )
+( epic theme playing )  
+♪ ♪  
+( wind blowing )  
+( dragon calls )  
+( grand music playing )  
+♪ ♪   
+( roaring )  
+♪ ♪   
+( dragon roaring )  
+( birds cawing )   
+♪ ♪   
+(roars )   
+( speaking High Valyrian ) Dohaeras, Syrax!   
+( Syrax rumbling )   
+Umbas.    
+Rybas!  
+( grunts )  
+( Syrax purring )  
 
-**Ser Harrold Westerling**: Welcome back, Princess.I trust your ride was pleasant.
-Try not to look too relieved, ser.
+**Ser Harrold Westerling**: Welcome back, Princess.I trust your ride was pleasant.  
+Try not to look too relieved, ser.  
 
-**Westerling**: I am relieved. Every time that golden beast brings you back unspoiled, it saves my head from a spike.
-Syrax is growing quickly.
-She'll soon be as large as Caraxes.
-That's almost large enough to saddle two.
-I believe I'm quite content as a spectator, thank you.
-Dragonkeeper Elder: ( speaking High Valyrian ) Dohaeras.
-( grumbles, roars ) 
-Naejot! 
-( roars )
-( horses neighing )
-♪ ♪
-( birds cawing ) 
-♪ ♪ ♪ ♪ 
-( indistinct chatter )
-Ah... Rhaenyra.
-You know I don't like you to go flying while I'm in this condition.
-You don't like me to go flying while you're in any condition.
-Your Grace.
-**Queen Aemma**: Good morrow, Alicent.
-**Rhaenyra**: Did you sleep?
-I slept.
-How long?
-I don't need mothering, Rhaenyra.
-Well, here you are, surrounded by attendants, all focused on the babe.
-Someone has to attend to you.
-You will lie in this bed soon enough, Rhaenyra.
-This discomfort is how we serve the realm.
-I'd rather serve as a knight and ride to battle and glory.
-( laughs )
-We have royal wombs, you and I.
-The child bed is our battlefield.
-We must learn to face it with a stiff lip.
-Now take a bath.
-You stink of dragon.
-So, I said to him, "Well, I believe you might be looking up the wrong end."
-( all laughing )
-My lords.
+**Westerling**: I am relieved. Every time that golden beast brings you back unspoiled, it saves my head from a spike.  
+Syrax is growing quickly.  
+She'll soon be as large as Caraxes.  
+That's almost large enough to saddle two.  
+I believe I'm quite content as a spectator, thank you.  
+Dragonkeeper Elder: ( speaking High Valyrian ) Dohaeras.  
+( grumbles, roars )   
+Naejot!   
+( roars )  
+( horses neighing )  
+♪ ♪  
+( birds cawing )   
+♪ ♪ ♪ ♪   
+( indistinct chatter )  
+Ah... Rhaenyra.  
+You know I don't like you to go flying while I'm in this condition.  
+You don't like me to go flying while you're in any condition.  
+Your Grace.  
+**Queen Aemma**: Good morrow, Alicent.  
+
+**Rhaenyra**: Did you sleep?  
+I slept.  
+How long?  
+I don't need mothering, Rhaenyra.  
+Well, here you are, surrounded by attendants, all focused on the babe.  
+Someone has to attend to you.  
+You will lie in this bed soon enough, Rhaenyra.  
+This discomfort is how we serve the realm.  
+I'd rather serve as a knight and ride to battle and glory.  
+( laughs )  
+We have royal wombs, you and I.  
+The child bed is our battlefield.  
+We must learn to face it with a stiff lip.  
+Now take a bath.  
+You stink of dragon.  
+So, I said to him, "Well, I believe you might be looking up the wrong end."  
+( all laughing )  
+My lords.  
 The growing alliance among the Free Cities has taken to styling itself "the Triarchy."
 They have massed on Bloodstone and are presently ridding the Stepstones of its pirate infestation.
 **King Viserys**: Well, that sounds suspiciously like good news, Lord Corlys.
