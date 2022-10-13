@@ -25,8 +25,10 @@ Umbas.
 Rybas!
 ( grunts )
 ( Syrax purring )
+
 **Ser Harrold Westerling**: Welcome back, Princess.I trust your ride was pleasant.
 Try not to look too relieved, ser.
+
 **Westerling**: I am relieved. Every time that golden beast brings you back unspoiled, it saves my head from a spike.
 Syrax is growing quickly.
 She'll soon be as large as Caraxes.
