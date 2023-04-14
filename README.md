@@ -11,7 +11,7 @@
 
 - ⚡ Ready to learn **My experiences and knowlege are not that high, but i am looking towards to learn much more**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
