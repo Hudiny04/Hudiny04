@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **how to survive Maturitu**
 
-- 👯 I’m more of a front-end, but i dont mind back-end development 
--    **(css design is my enemy tho..)
--    My older sister took the drawing and imaginaition genes xdd**
+- 👯 I’m more of a front-end, but i dont mind back-end development **(css design is my enemy tho..) My older sister took the drawing and imaginaition genes xdd**
 
 - 📫 How to reach me **tomashudecek04@gmail.com**
 
-- 📄 My experience - Front-end dev for 1 month in REDSTUDIO Cork ( they told me i am good ;) )
+- 📄 My experience - Front-end dev for 1 month in REDSTUDIO Cork ( they told me i am good ;) ), unfortunately i am no longer on their organisation on github so i cant show you my work with tem :(
 
 - ⚡ Ready to learn **My experiences and knowlege are not that high, but i am looking towards to learn much more**
 
