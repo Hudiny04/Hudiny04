@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **how to survive Maturitu**
 
-- 👯 I’m more of front-end, but i dont mind back-end development **(css design is my enemy tho..) My older sister took the drawing and imaginaition genes xdd**
+- 👯 I’m more of a front-end, but i dont mind back-end development **(css design is my enemy tho..) My older sister took the drawing and imaginaition genes xdd**
 
 - 📫 How to reach me **tomashudecek04@gmail.com**
 
