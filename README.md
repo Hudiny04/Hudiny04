@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomáš Hudeček</h1>
+<h1 align="center">El mister Tomáš Hudeček</h1>
 <h3 align="center">A poor student form SPSMB</h3>
 
 - 🌱 I’m currently learning **how to survive Maturitu**
