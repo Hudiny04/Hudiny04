@@ -9,6 +9,8 @@
 
 - 📄 My experience - Front-end dev for 1 month in REDSTUDIO Cork ( they told me i am good ;) ), unfortunately i am no longer on their organisation on github so i cant show you my work with them :(
 
+- 🥊 My greates invetion - https://github.com/Hudiny04/discordMcBot - plugin for connection between minecraft server and discord server, it's not much but it's honest work and it is ready for expansion anytime
+
 - ⚡ Ready to learn **My experiences and knowlege are not that high, but i am looking towards to learn much more**
 
 <h3 align="left">Languages and Tools:</h3>
