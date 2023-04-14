@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tomashudecek04@gmail.com**
 
-- 📄 My experience - Front-end dev for 1 month in REDSTUDIO Cork ( they told me i am good ;) ), unfortunately i am no longer on their organisation on github so i cant show you my work with tem :(
+- 📄 My experience - Front-end dev for 1 month in REDSTUDIO Cork ( they told me i am good ;) ), unfortunately i am no longer on their organisation on github so i cant show you my work with them :(
 
 - ⚡ Ready to learn **My experiences and knowlege are not that high, but i am looking towards to learn much more**
 
